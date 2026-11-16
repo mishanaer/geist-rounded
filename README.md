@@ -6,10 +6,6 @@ Nine weights (100–900), 975 glyphs, Latin and Cyrillic, and 11 stylistic sets.
 
 **[Try and download the font](https://mishanaer.com/ui/geist-rounded)**
 
-## Install with your coding assistant
-
-Copy this prompt into your coding assistant:
-
 ```text
 Use Geist Rounded as the main interface font in this project. Download and self-host the variable WOFF2 file:
 https://mishanaer.com/ui/geist-rounded/fonts/GeistRounded.woff2
